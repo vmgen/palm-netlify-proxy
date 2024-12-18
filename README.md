@@ -13,3 +13,4 @@ Google PaLM API proxy on Netlify Edge
 ## Discussion
 
 Please Visit Simon's Blog. https://simonmy.com/posts/使用netlify反向代理google-palm-api.html
+使用CloudFlare访问的例子：https://zhile.io/2023/12/24/gemini-pro-proxy.html
